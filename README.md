@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on
-- 
+
+I'm currently working on: 
 
 
-📫 How to reach me:
+How to reach me:
 - [habadolad@outlook.com](mailto:habadolad@outlook.com)
