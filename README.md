@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - The Penguin Dictionary of Curious and Interesting Numbers
 - How to Survive the End of the World (When it's in Your Own Head): An Anxiety Survival Guide
 - His Majesty's Airship: The Life and Tragic Death of the World's Largest Flying Machine
-- A philsophy of software design 
+- A Philsophy Of Software Design 
 
 
 ## 📖 About me:
