@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - A Philsophy Of Software Design 
 
 
-## 📖 About me:
+## 🔎 About me:
 - 🖥 Software dev with a background in data analytics, research and consulting
 
 
