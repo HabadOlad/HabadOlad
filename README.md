@@ -21,7 +21,14 @@ Here are some ideas to get you started:
 
 
 ## 🌱 I’m currently learning:
-- 
+-
+
+## Technologies
+
+The following is a list of technologies I specialize in and utilize.
+
+**🏗️ Languages**  
+Python, Javascript, SQL 
 
 ## 📖 I'm Currently reading:
 - The Penguin Dictionary of Curious and Interesting Numbers
