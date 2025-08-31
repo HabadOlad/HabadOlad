@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning:
 -
 
-## Technologies
+## ⚙️ Technologies
 
 The following is a list of technologies I specialize in and utilize.
 
