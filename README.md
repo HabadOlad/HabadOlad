@@ -1,4 +1,4 @@
-## Print("Hello World 👋 I'm Habad Olad")
+## Hello World 👋 I'm Habad Olad
 
 <!--
 **HabadOlad/HabadOlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +44,7 @@ Python, Javascript, SQL
 - 🖥 Software dev with a background in data analytics, research and consulting
 
 
-## ☎️: How to reach me:
+## ☎️ How to reach me:
 <a href="https://www.habadolad.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logoColor=white&logo=googlechrome" /></a>
 <a href="https://www.linkedin.com/in/habad-olad/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logo=linkedin" /></a>
 - [habadolad@outlook.com](mailto:habadolad@outlook.com)
