@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 - 🖥 Software dev with a background in data analytics, research and consulting
 
 
-## 🖱️ How to reach me:
+## ☎️: How to reach me:
 - [habadolad@outlook.com](mailto:habadolad@outlook.com)
