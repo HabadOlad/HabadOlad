@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 ## 🔭 I'm currently working on: 
 - My interactive fiction game.......
-- 
+- Check out my repos !
 
 
 ## 🌱 I’m currently learning:
--
+- Clojure! Really want to learn those lispspspsppsspspssp......
+- Data structures and algorithims 
+- tkinter — Python interface to Tcl/Tk
 
 ## ⚙️ Technologies
 
@@ -32,6 +34,7 @@ Python, Javascript, SQL
 
 ## 📖 I'm currently reading:
 - The Penguin Dictionary of Curious and Interesting Numbers
+- - Clojure for the Brave and True
 - How to Survive the End of the World (When it's in Your Own Head): An Anxiety Survival Guide
 - His Majesty's Airship: The Life and Tragic Death of the World's Largest Flying Machine
 - A Philsophy Of Software Design 
