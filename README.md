@@ -30,7 +30,7 @@ The following is a list of technologies I specialize in and utilize.
 **🏗️ Languages**  
 Python, Javascript, SQL 
 
-## 📖 I'm Currently reading:
+## 📖 I'm currently reading:
 - The Penguin Dictionary of Curious and Interesting Numbers
 - How to Survive the End of the World (When it's in Your Own Head): An Anxiety Survival Guide
 - His Majesty's Airship: The Life and Tragic Death of the World's Largest Flying Machine
