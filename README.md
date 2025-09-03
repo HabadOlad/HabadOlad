@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 
 ## 📖 I'm currently reading:
-- Goodbye, things: On Minimalist Living
 - His Majesty's Airship: The Life and Tragic Death of the World's Largest Flying Machine
+- The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer 
 
 
 ## 🔎 About me:
