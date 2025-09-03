@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 - Check out my repos !
 
 
-## 🌱 I’m currently learning:
-- Clojure! Really want to learn those lispspspsppsspspssp......
-- Data structures and algorithims 
-- tkinter — Python interface to Tcl/Tk
+## 🌱 I’m having fun with:
+......
 
 ## ⚙️ Technologies
 
