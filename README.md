@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m having fun with:
 - Sorting algorithms
+- Piet Mondarian generative art!
 
 
 ## 📖 I'm currently reading:
