@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## 🌱 I’m having fun with:
-- Sorting algorithms
+- Arduino/microcontrollers!
 - Piet Mondarian generative art!
 
 
