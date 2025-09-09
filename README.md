@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -23,11 +22,6 @@ Here are some ideas to get you started:
 ## 🌱 I’m having fun with:
 - Arduino/microcontrollers!
 - Piet Mondarian generative art!
-
-
-## 📖 I'm currently reading:
-- His Majesty's Airship: The Life and Tragic Death of the World's Largest Flying Machine
-- The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer 
 
 
 ## 🔎 About me:
