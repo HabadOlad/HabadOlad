@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m having fun with:
 - Arduino/microcontrollers!
+- Cellular Automata!
 - Piet Mondarian generative art!
 
 
