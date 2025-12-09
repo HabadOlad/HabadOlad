@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I'm currently working on: 
-- My interactive fiction game.......https://habadolad.com/zork.html
-- My website!
-- Check out my repos !
+- Blogpost manager module to plug into your website! Check it out..... Hab-Blog! https://github.com/HabadOlad/Hab-blog
+- My interactive fiction game.......https://github.com/HabadOlad/HabadTextGame
+- StopSnoringML!............https://github.com/HabadOlad/StopSnoringML
+- My website!......https://habadolad.com/
 
 
 ## 🌱 I’m having fun with:
