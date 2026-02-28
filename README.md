@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 ## 🔭 I'm currently working on: 
 - StopSnoringML!............https://github.com/HabadOlad/StopSnoringML
 - My website!......https://habadolad.com/
-- learning Go! let's goooooooo
 
 
 ## 🌱 I’m having fun with:
 - Arduino/microcontrollers!
 - Cellular Automata!
-- Piet Mondarian generative art!
 
 
 ## 🔎 About me:
