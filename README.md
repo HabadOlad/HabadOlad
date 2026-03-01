@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I'm currently working on: 
-- StopSnoringML!............https://github.com/HabadOlad/StopSnoringML
+- StopSnoringML!............
 - My website!......https://habadolad.com/
 
 
